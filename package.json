@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DZuz14/typescript-npm-package-boilerplate.git"
+    "url": "git+https://github.com/peterolson/pinyin-zhuyin.git"
   },
   "keywords": [
     "pinyin",
@@ -24,9 +24,9 @@
   "author": "Peter Olson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DZuz14/typescript-npm-package-boilerplate/issues"
+    "url": "https://github.com/peterolson/pinyin-zhuyin/issues"
   },
-  "homepage": "https://github.com/DZuz14/typescript-npm-package-boilerplate#readme",
+  "homepage": "https://github.com/peterolson/pinyin-zhuyin#readme",
   "devDependencies": {
     "@types/jest": "^26.0.24",
     "@typescript-eslint/eslint-plugin": "^4.5.0",
