@@ -10,7 +10,7 @@ Package for converting pinyin text to zhuyin/bopomofo text
 ## Usage 使用
 
 ```
-import { pinyinToZhuyin } from '../index';
+import { pinyinToZhuyin } from 'pinyin-zhuyin';
 console.log(pinyinToZhuyin('Wǒ bùshì měiguó rén. Tā shì měiguó rén.'));
 // ㄨㄛˇ ㄅㄨˋㄕˋ ㄇㄟˇㄍㄨㄛˊ ㄖㄣˊ. ㄊㄚ ㄕˋ ㄇㄟˇㄍㄨㄛˊ ㄖㄣˊ.
 ```
