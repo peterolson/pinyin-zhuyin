@@ -1,6 +1,6 @@
 # `pinyin-zhuyin`
 
-Package for converting pinyin text to zhuyin/bopomofo text
+Package for converting pinyin text to zhuyin/bopomofo text  
 拼音转换为注音（ㄅㄆㄇㄈ）
 
 ## Install 安装
