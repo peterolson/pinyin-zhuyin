@@ -1,0 +1,44 @@
+{
+  "name": "pinyin-zhuyin",
+  "version": "1.0.0",
+  "description": "Library for converting from pinyin to zhuyin",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "format": "prettier --write \"src/**/*.(js|ts)\"",
+    "lint": "eslint src --ext .js,.ts",
+    "lint:fix": "eslint src --fix --ext .js,.ts",
+    "test": "jest --config jest.config.js",
+    "publish": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DZuz14/typescript-npm-package-boilerplate.git"
+  },
+  "keywords": [
+    "pinyin",
+    "zhuyin",
+    "convert"
+  ],
+  "author": "Peter Olson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DZuz14/typescript-npm-package-boilerplate/issues"
+  },
+  "homepage": "https://github.com/DZuz14/typescript-npm-package-boilerplate#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.24",
+    "@typescript-eslint/eslint-plugin": "^4.5.0",
+    "@typescript-eslint/parser": "^4.5.0",
+    "eslint": "^7.11.0",
+    "eslint-plugin-jest": "^24.1.0",
+    "jest": "^26.6.0",
+    "prettier": "^2.3.0",
+    "ts-jest": "^26.4.1",
+    "typescript": "^4.0.3"
+  },
+  "files": [
+    "dist/**/*"
+  ]
+}
