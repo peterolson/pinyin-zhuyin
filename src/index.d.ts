@@ -1,1 +1,1 @@
-declare function pinyinToZhuyin(pinyin: string): string;
+export function pinyinToZhuyin(pinyin: string): string;
